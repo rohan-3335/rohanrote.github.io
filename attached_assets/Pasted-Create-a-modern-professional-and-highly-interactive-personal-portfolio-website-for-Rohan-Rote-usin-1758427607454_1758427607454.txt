@@ -1,0 +1,96 @@
+Create a modern, professional, and highly interactive personal portfolio website for Rohan Rote using HTML, CSS, JavaScript, and optionally React/Tailwind CSS for responsiveness and styling.
+
+Website Requirements:
+
+Header / Hero Section
+
+Full name: Rohan Rote
+
+Location: Pune, Maharashtra
+
+Contact info: Phone: +91-7057058631, Email: rohankrote2003@gmail.com
+
+Links:
+
+LinkedIn: linkedin.com/in/rohanrote
+
+GitHub: github.com/rohan-3335
+
+LeetCode: leetcode.com/u/Rohan_Rote
+
+Hero banner with a professional tagline like:
+“Java Backend Developer | Spring Boot | Microservices | Data-Driven Solutions”
+
+Add a professional photo placeholder.
+
+About Me Section
+
+A brief professional introduction summarizing skills, academic background, and interests.
+
+Highlight: “B.Tech in Computer Engineering (CGPA 8.17) at JSPM’s Rajarshi Shahu College of Engineering, Pune”.
+
+Education Section
+
+JSPM’s Rajarshi Shahu College of Engineering – B.Tech in Computer Engineering (2021–2025) – CGPA: 8.17
+
+Swami Vivekanand Jr. College – HSC Science – 86.2%
+
+Skills Section (Interactive)
+
+Categories with icons or progress bars:
+
+Languages: Java, SQL, C++, Python (basic)
+
+Frameworks & Technologies: Core Java, Java 8, Servlets, Spring Boot, Microservices, Maven
+
+Databases: MySQL, MongoDB (basic)
+
+Tools: IntelliJ IDEA, Eclipse, VS Code, Postman, Git/GitHub
+
+Core Concepts: OOP, Data Structures & Algorithms, DBMS, Exception Handling, Regex
+
+Projects Section (with live GitHub links and hover effects)
+
+JournalApp (Spring Boot, Spring Security, JWT, MongoDB) → GitHub Link
+
+Healthcare Premium Prediction (Python, ML, XGBoost, Streamlit) → GitHub Link
+
+Distributed Quiz Management System (Spring Boot, Microservices, MySQL)
+
+Each project card should include:
+
+Title
+
+Tech stack used
+
+Short description
+
+GitHub link button
+
+Internship Section
+
+Trainee Associate, Perennial Systems (Aug 2025 – Present)
+
+Work on Core Java, Java 8 features, Servlets, Web Development, DSA, and debugging.
+
+Achievements Section
+
+Research Work: Physio at Home (AI-based motion tracking system for home-based physical therapy, 2022–2025).
+
+Contact Section
+
+Interactive contact form (Name, Email, Message → sends to email).
+
+Direct links for phone call and email.
+
+Extra Features
+
+Dark & Light mode toggle.
+
+Smooth scrolling and animations.
+
+Mobile-friendly responsive design.
+
+Download Resume button.
+
+Floating navigation bar with section highlights.
